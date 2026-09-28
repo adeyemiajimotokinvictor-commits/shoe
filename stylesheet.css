@@ -1,0 +1,93 @@
+.container{
+    width: 80px;
+    margin: auto;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: red;
+    color: white;
+    font-family:algerian;
+}
+.text{
+    margin-left: 20px;
+}
+nav{
+    display: flex;
+    gap: 30px;
+    margin-right: 20px;
+}
+a{
+    text-decoration: none;
+    color: black;
+    color: white;    
+}
+.imge{
+    width: 165px;
+    height: 175px;
+}
+.img{
+    width: 165px;
+    height: 150px;
+}
+.imgg{
+    width: 120px;
+    height: 150px;
+}
+.imag{
+    width: 165px;
+}   
+.grade{
+    width: 165px;
+}
+.image{
+    width: 165px;
+    height: 160px;
+}
+.box{
+    box-sizing: border-box;
+    background: white;
+    box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.1);
+    width: 250px;
+    padding: 2rem;
+    height: 370px;
+    text-align: center;
+    border-radius: 20px;
+}
+.btn{
+    padding: 10px;
+    width: 100px;
+    border: none;
+    border-radius: 10px;
+    background: yellowgreen;
+}
+.sec{
+    display: flex;
+    gap: 50px;
+    justify-content: center;    
+    margin-top: 50px;
+    
+}
+footer{
+    display: flex;
+    background: red;
+    color: white;
+    justify-content: space-between;
+    padding: 10px;
+    align-items: center;
+    margin-top: 70px ;
+    border-radius: 20px;
+}
+li{
+    list-style: none;
+}
+.hm{
+    margin-left: 20px;
+}
+.first{
+    line-height: 3.0;
+    margin-right: 20px;
+}   
